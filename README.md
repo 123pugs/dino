@@ -1,2 +1,3 @@
 # dino
-the official dino of chrome google.
+There’s nothing to see around here.
+by Google Chrome.
